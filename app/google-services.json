@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082562938909",
+    "project_id": "balnsheet-98048",
+    "storage_bucket": "balnsheet-98048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082562938909:android:7997ed6dcb93981b659ef4",
+        "android_client_info": {
+          "package_name": "com.example.balnsheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082562938909-rtbcaec1pioqqutrnndil4kmn5b6mos0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balnsheet",
+            "certificate_hash": "083f35be2b4b8e461cb79c75953fb0d7a4f72f74"
+          }
+        },
+        {
+          "client_id": "1082562938909-kahlf8hh3l98o2ol68bj5qulp2ifv8eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3_FHjRzx-Kctr5JiOjftxgmRYkD8n6jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082562938909-4ih5apqjhgcr5en0p1anpcl1jvrrl7sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
